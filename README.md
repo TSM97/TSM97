@@ -15,11 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=TSM97&icon=0&color=4)](https://visitcount.itsvg.in)
 
----
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=" alt="" /></a></p>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
