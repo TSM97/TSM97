@@ -1,3 +1,6 @@
+<h1>Hi 👋, I'm Giannis</h1>
+<p>A passionate frontend developer from Athens, Greece</p>
+
 # 💫 About Me:
 🔭 I’m currently working: on A website for showcasing honey products and publishing beekeeping articles<br>🌱 I’m currently learning: Firebase intergrations and framer motion animations<br>👨‍💻 Tech Stack: React, TypeScript, TailwindCSS , Bootstrap, FramerMotion,  Firebase<br>📫 How to Reach Me: Email - gtsamadias@hotmail.com | LinkedIn - Giannis Tsamadias<br>🎵 Hobbies & Interests: Sketching, Playing music and Gaming 
 
